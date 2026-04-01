@@ -1,0 +1,1 @@
+import{P as s,T as n,i as t}from"../../../localization-ByDr5tbG.chunk.js";import{S as i,P as o}from"../../../preset_utils-B-KYQauk.chunk.js";import{S as r}from"../../../sim-CV4bmK3k.chunk.js";import"../../../inputs-2ditQ-3J.chunk.js";const a=new i,e=new o(s.SurvivalHunter,a);a.raid.setPlayer(n.nextEventID(),0,e),new r(document.body,e),t();

@@ -1,0 +1,1 @@
+import{P as s,T as t,i as n}from"../../../localization-ByDr5tbG.chunk.js";import{S as e,P as a}from"../../../preset_utils-B-KYQauk.chunk.js";import{B as o}from"../../../sim-Bd7ioUau.chunk.js";import"../../../inputs-2ditQ-3J.chunk.js";const r=new e,i=new a(s.BeastMasteryHunter,r);r.raid.setPlayer(t.nextEventID(),0,i),new o(document.body,i),n();

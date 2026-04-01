@@ -1,0 +1,1 @@
+import{P as s,T as n,i as o}from"../../../localization-ByDr5tbG.chunk.js";import{S as t,P as i}from"../../../preset_utils-B-KYQauk.chunk.js";import{A as a}from"../../../sim-DBvIo-Zy.chunk.js";import"../../../inputs-zjnZiC4F.chunk.js";const e=new t,r=new i(s.AssassinationRogue,e);e.raid.setPlayer(n.nextEventID(),0,r),new a(document.body,r),o();

@@ -1,0 +1,1 @@
+import{P as s,T as a,i as e}from"../../../localization-ByDr5tbG.chunk.js";import{S as n,P as o}from"../../../preset_utils-B-KYQauk.chunk.js";import{F as r}from"../../../sim-CkE3f1yC.chunk.js";const t=new n,i=new o(s.FeralDruid,t);t.raid.setPlayer(a.nextEventID(),0,i),new r(document.body,i),e();
